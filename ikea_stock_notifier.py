@@ -5,11 +5,11 @@ from slack_webhook import Slack
 import sys
 from os.path import exists
 
-slack = Slack(url='https://hooks.slack.com/services/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')
-itemDesc = 'dresser'
-storeIDs = ["399", "162", "167", "413", "166"]
+slack = Slack(url='SLACK_WEBHOOK_URL')
+itemDesc = 'ITEM_DESCRIPTION'
+storeIDs = ["399", "162", "167", "413", "166"] #replace these, left them there as example
 db_file = f'db_{itemDesc}.json'
-itemNo = '00103343'
+itemNo = 'ITEM_NUMBER'
 
 
 def main():
