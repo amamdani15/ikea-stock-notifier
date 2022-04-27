@@ -1,0 +1,51 @@
+IKEA Atlanta : 257
+IKEA Baltimore : 152
+IKEA Chicago - Bolingbrook : 170
+IKEA New York - Brooklyn : 921
+IKEA Los Angeles - Burbank : 399
+IKEA Detroit - Canton : 026
+IKEA Los Angeles - Carson : 162
+IKEA Denver - Centennial : 064
+IKEA Charlotte : 067
+IKEA Washington - College Park : 411
+IKEA Columbus : 511
+IKEA Philadelphia - Conshohocken : 211
+IKEA Los Angeles - Costa Mesa : 167
+IKEA Los Angeles - Covina : 413
+IKEA Salt Lake City - Draper : 103
+IKEA San Francisco - East Palo Alto : 347
+IKEA New York - Elizabeth : 154
+IKEA San Francisco - Emeryville : 165
+IKEA Indianapolis - Fishers : 536
+IKEA Dallas - Frisco : 183
+IKEA Dallas - Grand Prairie : 535
+IKEA Houston : 379
+IKEA Jacksonville : 537
+IKEA Las Vegas : 462
+IKEA San Antonio - Live Oak : 570
+IKEA New York - Long Island : 156
+IKEA Memphis : 508
+IKEA Kansas City - Merriam : 374
+IKEA Miami : 327
+IKEA New York - New Haven : 213
+IKEA Norfolk : 569
+IKEA Milwaukee - Oak Creek : 560
+IKEA Orlando : 145
+IKEA New York - Paramus : 409
+IKEA Pittsburg : 153
+IKEA Oregon - Portland : 028
+IKEA New York Queens : 622
+IKEA Seattle : 488
+IKEA Austin - Round Rock : 027
+IKEA San Diego : 166
+IKEA Chicago - Schaumburg : 210
+IKEA Philadelphia - Penn S Landing : 215
+IKEA Missouri - St. Louis : 410
+IKEA Boston - Stoughton : 158
+IKEA Fort Lauderdale - Sunrise : 207
+IKEA Tampa : 042
+IKEA Phoenix - Tempe : 209
+IKEA Minneapolis - Bloomington : 212
+IKEA Cincinnati - West Chester : 175
+IKEA Sacramento - West Sacramento : 157
+IKEA Washington - Woodbridge : 168
